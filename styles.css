@@ -1,0 +1,143 @@
+body {
+    /* padding-left: 16px;
+    padding-right: 16px; */
+    font-family: 'Open Sans', sans-serif;
+    background-color: #F3F5F8;
+    font-size: 16px;
+}
+
+a {
+    color: #2782FC;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.description-1 {
+    padding-bottom: 44px;  
+}
+
+.description-2 {
+    padding-bottom: 88px;  
+}
+
+.description-3 {
+    padding-bottom: 88px;  
+}
+
+.description-4 {
+    padding-bottom: 88px;  
+}
+
+.description-5 {
+    padding-bottom: 44px;  
+}
+
+.description-6 {
+    padding-bottom: 110px;  
+}
+
+.description-7 {
+    padding-bottom: 66px;  
+}
+
+.description-8 {
+    padding-bottom: 44px;  
+}
+
+.description-9 {
+    padding-bottom: 44px;  
+}
+
+.btn {
+    /* padding-bottom: 100px; */
+}
+.container {
+    width: 100%;
+    max-width: 1898px;
+    /* height: 400px; */
+    margin: 0 auto;
+}
+
+.card-1 {
+    background-color: #ffffff;
+    padding: 24px 24px 48px 24px;
+    width: 432px;
+    height: 306px;
+    float: left;
+    margin: 24px;
+}
+
+.card-2 {
+    background-color: #ffffff;
+    padding: 24px 24px 48px 24px;
+    width: 432px;
+    height: 306px;
+    float: left;
+    margin: 24px;
+}
+
+.card-3 {
+    background-color: #ffffff;
+    padding: 24px 24px 48px 24px;
+    width: 432px;
+    height: 306px;
+    float: left;
+    margin: 24px;
+}
+
+.card-4 {
+    background-color: #ffffff;
+    padding: 24px 24px 48px 24px;
+    width: 432px;
+    height: 306px;
+    float: left;
+    margin: 24px;
+}
+
+.card-5 {
+    background-color: #ffffff;
+    padding: 24px 24px 48px 24px;
+    width: 432px;
+    height: 306px;
+    float: left;
+    margin: 24px;
+}
+
+.card-6 {
+    background-color: #ffffff;
+    padding: 24px 24px 48px 24px;
+    width: 432px;
+    height: 306px;
+    float: left;
+    margin: 24px;
+}
+
+.card-7 {
+    background-color: #ffffff;
+    padding: 24px 24px 48px 24px;
+    width: 432px;
+    height: 306px;
+    float: left;
+    margin: 24px;
+}
+
+.card-8 {
+    background-color: #ffffff;
+    padding: 24px 24px 48px 24px;
+    width: 432px;
+    height: 306px;
+    float: left;
+    margin: 24px;
+}
+
+.card-9 {
+    background-color: #ffffff;
+    padding: 24px 24px 48px 24px;
+    width: 432px;
+    height: 306px;
+    float: left;
+    margin: 24px;
+}
